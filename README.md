@@ -33,3 +33,7 @@ The browser test captures a running editor in `pixel-studio.png`.
 ## Limitations
 
 The grid size is fixed. Drawings live in the current page until exported, and painting is one cell per click or tap.
+
+## Screenshot
+
+Open the latest successful [Actions run](https://github.com/kolawolesolomon/pixel-studio/actions/workflows/tests.yml) and download `pixel-studio-preview` from **Artifacts** to see a screenshot captured from the running application.
